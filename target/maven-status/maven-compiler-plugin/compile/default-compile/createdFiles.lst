@@ -1,0 +1,11 @@
+com\nagarro\javaAdvance\repository\RoleRepository.class
+com\nagarro\javaAdvance\model\Role.class
+com\nagarro\javaAdvance\service\SecurityServiceImpl.class
+com\nagarro\javaAdvance\repository\UserRepository.class
+com\nagarro\javaAdvance\web\UserController.class
+com\nagarro\javaAdvance\validator\UserValidator.class
+com\nagarro\javaAdvance\model\User.class
+com\nagarro\javaAdvance\service\UserService.class
+com\nagarro\javaAdvance\service\UserServiceImpl.class
+com\nagarro\javaAdvance\service\SecurityService.class
+com\nagarro\javaAdvance\service\UserDetailsServiceImpl.class
